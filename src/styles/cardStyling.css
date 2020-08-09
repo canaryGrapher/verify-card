@@ -1,0 +1,34 @@
+.card {
+    background-color: #263238;
+    color: #eeeeee;
+    box-shadow: 20px 40px 80px #414040;
+}
+
+.card-name {
+    font-size: 1.2rem;;
+}
+
+input[type=text] {
+    font-size: 1.8rem;
+}
+
+input[type=text]::-webkit-inner-spin-button, 
+input[type=text]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+*:focus {
+    outline: none;
+}
+@media only screen and (max-width: 600px) {
+    input[type=text] {
+        font-size: 1.2rem;
+    }
+  }
