@@ -35,7 +35,7 @@ Dankort	| 16 |	5019
 InterPayment	| 16-19	| 636
 
 # Website
-This repo is hosted on https://canarygrapher.github.io/pokedex
+This repo is hosted on https://canarygrapher.github.io/verify-card
 ![Image of the website](https://github.com/canaryGrapher/verify-card/blob/master/public/socialImage.png?raw=true)
 
 # License
