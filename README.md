@@ -36,6 +36,7 @@ InterPayment	| 16-19	| 636
 
 # Website
 This repo is hosted on https://canarygrapher.github.io/pokedex
+![Image of the website](https://github.com/canaryGrapher/verify-card/blob/master/public/socialImage.png?raw=true)
 
 # License
 Copyright 2020 [@canaryGrapher](https://github.com/canaryGrapher)
