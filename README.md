@@ -1,6 +1,8 @@
 # Verify-card
 This application has been made using ReactJS, and it has a straightforward use, to check if the credit/debit card number is valid, or not, using Luhn Algorithms. It also has an additional feature to check the issuing agency of the card using the predefined IIN numbers.
 
+![Logo Designs (4)](https://user-images.githubusercontent.com/27415791/155719070-ebd4478c-2dbf-4844-bcdf-531f2918ab90.jpg)
+
 ## Luhn Algorithm
 The Luhn algorithm or Luhn formula, also known as the "modulus 10" or "mod 10" algorithm, named after its creator, IBM scientist Hans Peter Luhn, is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers, etc.
 The algorithm is in the public domain and is in wide use today.It is not intended to be a cryptographically secure hash function; it was designed to protect against accidental errors, not malicious attacks. People use the algorithm as a simple method of distinguishing valid numbers from mistyped or otherwise incorrect numbers. [Source](https://en.wikipedia.org/wiki/Luhn_algorithm)
